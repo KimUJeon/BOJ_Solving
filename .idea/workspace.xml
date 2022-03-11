@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/2000/400/2480_주사위세개.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/dir_1000/700/1789.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/dir_4000/100/4101.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/dir_10000/800/10817.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/800/10817.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +29,13 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Python.4101">
     <configuration name="10817" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -172,6 +169,8 @@
       <workItem from="1646636961087" duration="5500000" />
       <workItem from="1646895704666" duration="20000" />
       <workItem from="1646895727043" duration="373000" />
+      <workItem from="1646896165497" duration="109000" />
+      <workItem from="1646896301252" duration="5000" />
     </task>
     <servers />
   </component>
