@@ -14,3 +14,4 @@ else:
     prize = dice[2]*100
 
 print(prize)
+
