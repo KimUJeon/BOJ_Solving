@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Python/dir_10000/200/10214.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/dir_11000/zero/11098_첼시.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10171.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10172_개.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10172_개.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10430_나머지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10430_나머지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1065_한수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1065_한수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10718_We_love_krill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10718_We_love_krill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10809_알파벳찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10809_알파벳찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10818_최소,최대.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10818_최소,최대.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10869_사칙연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10869_사칙연산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10871_X보다_작은수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10871_X보다_작은수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10950_A+B-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10950_A+B-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10951_A+B-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10951_A+B-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10952_A+B-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10952_A+B-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/10998_AxB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/10998_AxB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/11021_A+B-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/11021_A+B-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/11022_A+B-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/11022_A+B-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1152_단어의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1152_단어의개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1157_반복.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1157_반복.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/11654_아스키코드.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/11654_아스키코드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/11720_숫자의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/11720_숫자의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1330.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/14681_사분면_고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/14681_사분면_고르기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/1546_평균.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/1546_평균.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/15552_빠른A+B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/15552_빠른A+B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/15596_정수N개의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/15596_정수N개의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2438.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2439.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2439.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2557.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2557.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2562.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2562.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2588.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2588.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2675_반복.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2675_반복.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2739.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2739.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2742.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2742.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2753.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2884.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2884.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2908_상수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/2908_상수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/3052_나머지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/3052_나머지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/4344_평균은_넘겠지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/4344_평균은_넘겠지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/4673_셀프넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/4673_셀프넘버.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/5543.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/5543.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/7287.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/7287.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/8393.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/8393.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/8958_OX퀴즈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/8958_OX퀴즈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python1/9498.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +32,12 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/학교/자료구조/Slist_reverse.py" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\BackJoon\Python\Python1" />
@@ -237,13 +188,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BackJoon$10817.coverage" NAME="10817 커버리지 결과" MODIFIED="1646639076112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/dir_10000/800" />
-    <SUITE FILE_PATH="coverage/BackJoon$1789.coverage" NAME="1789 커버리지 결과" MODIFIED="1646639725971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/dir_1000/700" />
-    <SUITE FILE_PATH="coverage/BackJoon$1913_.coverage" NAME="1913_달팽이 커버리지 결과" MODIFIED="1646637863865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/dir_1000/900" />
-    <SUITE FILE_PATH="coverage/BackJoon$4101.coverage" NAME="4101 커버리지 결과" MODIFIED="1646895991618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/dir_4000/100" />
-    <SUITE FILE_PATH="coverage/BackJoon$2480_.coverage" NAME="2480_주사위세개 커버리지 결과" MODIFIED="1646640685660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/2000/400" />
   </component>
 </project>
