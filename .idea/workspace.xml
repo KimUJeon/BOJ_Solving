@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="임시 업로드">
+    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="백준 파이썬 11098번 첼시를 도와줘!">
+      <change afterPath="$PROJECT_DIR$/Python/5000/600/5635_생일.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/dir_11000/zero/11098_첼시.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/zero/11098_첼시.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <recent name="D:\Python\BackJoon\Python\Python1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11098_첼시">
+  <component name="RunManager" selected="Python.5635_생일">
     <configuration name="10103_주사위" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9506_약수의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5635_생일" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_9000/500" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/5000/600" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_9000/500/9506_약수의합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/5000/600/5635_생일.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5635_생일" />
         <item itemvalue="Python.11098_첼시" />
         <item itemvalue="Python.10214" />
         <item itemvalue="Python.10103_주사위" />
         <item itemvalue="Python.10162" />
-        <item itemvalue="Python.9506_약수의합" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655888204125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="백준 파이썬 11098번 첼시를 도와줘!">
+      <created>1655953899644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655953899644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="임시 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="임시 업로드" />
+    <MESSAGE value="백준 파이썬 11098번 첼시를 도와줘!" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 11098번 첼시를 도와줘!" />
   </component>
 </project>
