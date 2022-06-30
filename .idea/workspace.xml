@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="백준 파이썬 11098번 첼시를 도와줘!">
-      <change afterPath="$PROJECT_DIR$/Python/5000/600/5635_생일.py" afterDir="false" />
+    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="백준 파이썬 5565 영수증">
+      <change afterPath="$PROJECT_DIR$/Python/dir_10000/800/10833_사과.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +32,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\BackJoon\Python\Python1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5635_생일">
-    <configuration name="10103_주사위" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10833_사과">
+    <configuration name="10833_사과" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/100" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/800" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/100/10103_주사위.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/800/10833_사과.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10162" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10984_내학점을구해줘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/100" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/900" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/100/10162.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/900/10984_내학점을구해줘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10214" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2609_최대공약최소공배" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/200" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/600" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/200/10214.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/600/2609_최대공약최소공배.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11098_첼시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2748_피보나치수2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_11000/zero" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/700" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_11000/zero/11098_첼시.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/700/2748_피보나치수2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5635_생일" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5565_영수증" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/5000/600" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/5000/500" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/5000/600/5635_생일.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/5000/500/5565_영수증.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5635_생일" />
-        <item itemvalue="Python.11098_첼시" />
-        <item itemvalue="Python.10214" />
-        <item itemvalue="Python.10103_주사위" />
-        <item itemvalue="Python.10162" />
+        <item itemvalue="Python.10833_사과" />
+        <item itemvalue="Python.5565_영수증" />
+        <item itemvalue="Python.10984_내학점을구해줘" />
+        <item itemvalue="Python.2748_피보나치수2" />
+        <item itemvalue="Python.2609_최대공약최소공배" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,63 @@
       <option name="project" value="LOCAL" />
       <updated>1655953899644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="백준 파이썬 5635 생일">
+      <created>1655960199414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655960199414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="백준 파이썬 1408 24">
+      <created>1656053455313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656053455313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="백준 파이썬 2440 별찍기 3">
+      <created>1656308208289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656308208289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="백준 파이썬 2441 별찍기4">
+      <created>1656309196639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656309196639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="백준 파이썬 2609 최대공약수 최소공배수">
+      <created>1656313826803</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656313826803</updated>
+    </task>
+    <task id="LOCAL-00008" summary="백준 파이썬 2748 피보나치수2">
+      <created>1656319248147</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656319248147</updated>
+    </task>
+    <task id="LOCAL-00009" summary="백준 파이썬 10984 내 학점을 구해줘">
+      <created>1656464878363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656464878363</updated>
+    </task>
+    <task id="LOCAL-00010" summary="백준 파이썬 5565 영수증">
+      <created>1656484477621</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656484477621</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +264,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="임시 업로드" />
     <MESSAGE value="백준 파이썬 11098번 첼시를 도와줘!" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 11098번 첼시를 도와줘!" />
+    <MESSAGE value="백준 파이썬 5635 생일" />
+    <MESSAGE value="백준 파이썬 1408 24" />
+    <MESSAGE value="백준 파이썬 2440 별찍기 3" />
+    <MESSAGE value="백준 파이썬 2441 별찍기4" />
+    <MESSAGE value="백준 파이썬 2609 최대공약수 최소공배수" />
+    <MESSAGE value="백준 파이썬 2748 피보나치수2" />
+    <MESSAGE value="백준 파이썬 10984 내 학점을 구해줘" />
+    <MESSAGE value="백준 파이썬 5565 영수증" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 5565 영수증" />
   </component>
 </project>
