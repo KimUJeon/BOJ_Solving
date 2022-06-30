@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="백준 파이썬 5565 영수증">
-      <change afterPath="$PROJECT_DIR$/Python/dir_10000/800/10833_사과.py" afterDir="false" />
+    <list default="true" id="4c75b8bf-e2a3-4e0b-a6f1-399b80ec52c9" name="변경" comment="백준 파이썬 10833 사과">
+      <change afterPath="$PROJECT_DIR$/Python/2000/400/2442_별찍기5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Python\BackJoon\Python\Python1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10833_사과">
+  <component name="RunManager" selected="Python.2442_별찍기5">
     <configuration name="10833_사과" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2609_최대공약최소공배" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2442_별찍기5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/600" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/400" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/600/2609_최대공약최소공배.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/400/2442_별찍기5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2442_별찍기5" />
         <item itemvalue="Python.10833_사과" />
         <item itemvalue="Python.5565_영수증" />
         <item itemvalue="Python.10984_내학점을구해줘" />
         <item itemvalue="Python.2748_피보나치수2" />
-        <item itemvalue="Python.2609_최대공약최소공배" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656484477621</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="백준 파이썬 10833 사과">
+      <created>1656568715873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656568715873</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +279,7 @@
     <MESSAGE value="백준 파이썬 2748 피보나치수2" />
     <MESSAGE value="백준 파이썬 10984 내 학점을 구해줘" />
     <MESSAGE value="백준 파이썬 5565 영수증" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 5565 영수증" />
+    <MESSAGE value="백준 파이썬 10833 사과" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 10833 사과" />
   </component>
 </project>
