@@ -1,9 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be3d92e-4009-4bb0-89bb-aaec2ff62f2a" name="변경" comment="백준 파이썬 2744 대소문자 바꾸기">
-      <change afterPath="$PROJECT_DIR$/Python/dir_10000/900/10953_A+B6.py" afterDir="false" />
+    <list default="true" id="9c796ea4-080b-4091-9239-951bd00a7602" name="변경" comment="번호에 맞게 리팩터링 진행 완료">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/100/2163_초콜릿자르기" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/100/2163_초콜릿자르기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/200/2292_벌집" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/200/2292_벌집" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/300/2309_일곱난쟁이.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/300/2309_일곱난쟁이.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2420_사파리월드" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2420_사파리월드" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2440_별찍기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2440_별찍기3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2441_별찍기4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2441_별찍기4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2442_별찍기5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2442_별찍기5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2443_별찍기6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2443_별찍기6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2444_별찍기7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2444_별찍기7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2445_별찍기8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2445_별찍기8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2446_별찍기9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2446_별찍기9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2455_지능형기차.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2455_지능형기차.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2460_지능형기차2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2460_지능형기차2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2475_검증수" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2475_검증수" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2476_주사위게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2476_주사위게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2480_주사위세개.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2480_주사위세개.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/400/2490_윷놀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2490_윷놀이.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2501_약수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2501_약수구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2506_점수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2506_점수계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2522_별찍기12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2522_별찍기12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2523_별찍기13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2523_별찍기13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2525_오븐시계" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2525_오븐시계" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2530_인공지능시계" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2530_인공지능시계" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2558_A+B_2" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2558_A+B_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2576_홀수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2576_홀수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2581_소수" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2581_소수" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2587_대표값2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2587_대표값2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/500/2592_대표값.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2592_대표값.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/600/2609_최대공약최소공배.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/600/2609_최대공약최소공배.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/600/2693_N번째큰수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/600/2693_N번째큰수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2711_오타맨고창영.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2711_오타맨고창영.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2743_단어길이재기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2743_단어길이재기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2744_대소문자스왑.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2744_대소문자스왑.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2747_피보나치수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2747_피보나치수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2748_피보나치수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2748_피보나치수2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2750_수정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2750_수정렬하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2752_세수정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2752_세수정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2754_학점계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2754_학점계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/700/2775_부녀회장이될테야" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2775_부녀회장이될테야" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/800/2822_점수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/800/2822_점수계산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/800/2839_설탕배달" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/800/2839_설탕배달" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/800/2869_달팽이는올라가고싶다" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/800/2869_달팽이는올라가고싶다" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2902_KMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2902_KMP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2914_저작권" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2914_저작권" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2920_음계" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2920_음계" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2921_도미노.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2921_도미노.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2935_소음" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2935_소음" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2941_크로아티아알파벳" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2941_크로아티아알파벳" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/900/2953_나는요리사다.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2953_나는요리사다.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/2000/zero/2010_플러그.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/zero/2010_플러그.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/100/5176_대회자리.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/100/5176_대회자리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/200/5218_알파벳거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/200/5218_알파벳거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/300/5355_화성수학" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/300/5355_화성수학" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/500/5522_카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/500/5522_카드게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/500/5565_영수증.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/500/5565_영수증.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/500/5576_콘테스트.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/500/5576_콘테스트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/600/5622_다이얼" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/600/5622_다이얼" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/600/5635_생일.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/600/5635_생일.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/700/5717_상근이친구들.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/700/5717_상근이친구들.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/800/5800_성적통계.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/800/5800_성적통계.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/zero/5054_주차의신.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/zero/5054_주차의신.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/zero/5063_TGN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/zero/5063_TGN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/5000/zero/5086_배수약수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/zero/5086_배수약수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/zero/10039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/100/10171.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10172_개.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/100/10172_개.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10430_나머지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/400/10430_나머지.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1065_한수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1065_한수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10699.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/600/10699.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10718_We_love_krill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/700/10718_We_love_krill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10809_알파벳찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/800/10809_알파벳찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10818_최소,최대.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/800/10818_최소,최대.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10869_사칙연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/800/10869_사칙연산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10871_X보다_작은수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/800/10871_X보다_작은수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10950_A+B-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/900/10950_A+B-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10951_A+B-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/900/10951_A+B-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10952_A+B-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/900/10952_A+B-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/10998_AxB.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_10000/900/10998_AxB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/11021_A+B-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/zero/11021_A+B-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/11022_A+B-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/zero/11022_A+B-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/100/1110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1152_단어의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/100/1152_단어의개수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1157_반복.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/100/1157_반복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/11654_아스키코드.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/600/11654_아스키코드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/11720_숫자의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/700/11720_숫자의합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1330.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/300/1330.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/14681_사분면_고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_14000/600/14681_사분면_고르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/1546_평균.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/500/1546_평균.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/15552_빠른A+B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_15000/500/15552_빠른A+B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/15596_정수N개의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_15000/500/15596_정수N개의합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2438.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2438.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2439.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/400/2439.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2557.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2557.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2562.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2562.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2588.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/500/2588.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2675_반복.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/600/2675_반복.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2739.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2739.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2741.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2742.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2742.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2753.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/700/2753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2884.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/800/2884.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2908_상수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2908_상수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2914.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2914.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/2935.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_2000/900/2935.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/3052_나머지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_3000/zero/3052_나머지.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/4344_평균은_넘겠지.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_4000/300/4344_평균은_넘겠지.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/4673_셀프넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_4000/600/4673_셀프넘버.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/5355.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/300/5355.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/5543.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_5000/500/5543.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/7287.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_7000/200/7287.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/8393.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_8000/300/8393.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/8958_OX퀴즈.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_8000/900/8958_OX퀴즈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Python1/9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_9000/400/9498.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1000_A+B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1000_A+B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1009_분산처리.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1009_분산처리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1026_보물.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1026_보물.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1032_명령프롬프트.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1032_명령프롬프트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1037_약수.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1037_약수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_1000/1085_직사각형에서탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_1000/zero/1085_직사각형에서탈출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_10000/1000/600/11653_소인수분해" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_11000/600/11653_소인수분해" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_3000/3009_네번째점.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_3000/zero/3009_네번째점.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_3000/3046_ R2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_3000/zero/3046_ R2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/dir_3000/3053_택시기하학.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dir_3000/zero/3053_택시기하학.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +150,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CBZRxDOSGWh9pSThwS7EZuwOCp" />
+  <component name="ProjectId" id="2Cb51hcPRioT49V4VDy2bW8WRt1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -37,8 +164,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.2902_KMP">
-    <configuration name="10953_A+B6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11655_ROT13">
+    <configuration name="11170_0의개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_10000/900" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_11000/100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_10000/900/10953_A+B6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_11000/100/11170_0의개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11047_동전0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11365_!밀비급일" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_11000/zero" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_11000/300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_11000/zero/11047_동전0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_11000/300/11365_!밀비급일.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2743_단어길이재기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11655_ROT13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +215,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/700" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_11000/600" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/700/2743_단어길이재기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_11000/600/11655_ROT13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2744_대소문자스왑" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5218_알파벳거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +236,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/700" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/5000/200" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/700/2744_대소문자스왑.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/5000/200/5218_알파벳거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2902_KMP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9086_문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BackJoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2000/900" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/dir_9000/zero" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2000/900/2902_KMP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/dir_9000/zero/9086_문자열.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,192 +272,101 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2902_KMP" />
-        <item itemvalue="Python.10953_A+B6" />
-        <item itemvalue="Python.2744_대소문자스왑" />
-        <item itemvalue="Python.2743_단어길이재기" />
-        <item itemvalue="Python.11047_동전0" />
+        <item itemvalue="Python.11655_ROT13" />
+        <item itemvalue="Python.11170_0의개수" />
+        <item itemvalue="Python.11365_!밀비급일" />
+        <item itemvalue="Python.9086_문자열" />
+        <item itemvalue="Python.5218_알파벳거리" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="백준 파이썬 2592 대표값">
-      <created>1658203796108</created>
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9c796ea4-080b-4091-9239-951bd00a7602" name="변경" comment="" />
+      <created>1659058232090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659058232090</updated>
+    </task>
+    <task id="LOCAL-00001" summary="백준 파이썬 1357 뒤집힌 덧셈">
+      <created>1659058979815</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1658203796108</updated>
+      <updated>1659058979815</updated>
     </task>
-    <task id="LOCAL-00002" summary="백준 파이썬 2711 오타맨 고창영">
-      <created>1658206327156</created>
+    <task id="LOCAL-00002" summary="백준 파이썬 10987 모음의 개수">
+      <created>1659059774155</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1658206327156</updated>
+      <updated>1659059774155</updated>
     </task>
-    <task id="LOCAL-00003" summary="백준 파이썬 2953 나는 요리사다">
-      <created>1658207486902</created>
+    <task id="LOCAL-00003" summary="백준 파이썬 4458 첫 글자를 대문자로">
+      <created>1659069246295</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1658207486902</updated>
+      <updated>1659069246295</updated>
     </task>
-    <task id="LOCAL-00004" summary="백준 파이썬 1292 쉽게 푸는 문제">
-      <created>1658209247086</created>
+    <task id="LOCAL-00004" summary="백준 파이썬 11721 열 개씩 끊어 출력하기">
+      <created>1659404960065</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1658209247086</updated>
+      <updated>1659404960065</updated>
     </task>
-    <task id="LOCAL-00005" summary="백준 파이썬 3460 2진수">
-      <created>1658220941932</created>
+    <task id="LOCAL-00005" summary="백준 파이썬 10821 정수의 개수">
+      <created>1659488183990</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1658220941932</updated>
+      <updated>1659488183990</updated>
     </task>
-    <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="6be3d92e-4009-4bb0-89bb-aaec2ff62f2a" name="변경" comment="백준 파이썬 3460 2진수" />
-      <created>1658277935419</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1658277935419</updated>
-    </task>
-    <task id="LOCAL-00006" summary="백준 파이썬 10807 개수 세기">
-      <created>1658279301023</created>
+    <task id="LOCAL-00006" summary="백준 파이썬 10808 알파벳 개수">
+      <created>1659489536322</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1658279301023</updated>
+      <updated>1659489536322</updated>
     </task>
-    <task id="LOCAL-00007" summary="백준 파이썬 5054 주차의 신">
-      <created>1658281653679</created>
+    <task id="LOCAL-00007" summary="백준 파이썬 5218 알파벳 거리">
+      <created>1659491503456</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1658281653679</updated>
+      <updated>1659491503456</updated>
     </task>
-    <task id="LOCAL-00008" summary="백준 파이썬 2822 점수 계산">
-      <created>1658288172785</created>
+    <task id="LOCAL-00008" summary="백준 파이썬 9086 문자열">
+      <created>1659586448280</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1658288172785</updated>
+      <updated>1659586448280</updated>
     </task>
-    <task id="LOCAL-00009" summary="백준 파이썬 2750 수 정렬하기">
-      <created>1658292625144</created>
+    <task id="LOCAL-00009" summary="백준 파이썬 11365 !밀비 급일">
+      <created>1659586827184</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1658292625144</updated>
+      <updated>1659586827184</updated>
     </task>
-    <task id="LOCAL-00010" summary="백준 파이썬 2752 세 수 정렬">
-      <created>1658293069153</created>
+    <task id="LOCAL-00010" summary="백준 파이썬 11170 0의 개수">
+      <created>1659587459680</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1658293069153</updated>
+      <updated>1659587459680</updated>
     </task>
-    <task id="LOCAL-00011" summary="백준 파이썬 2587 대표값 2">
-      <created>1658366164354</created>
+    <task id="LOCAL-00011" summary="백준 파이썬 11655 ROT13">
+      <created>1659685373028</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1658366164354</updated>
+      <updated>1659685373028</updated>
     </task>
-    <task id="LOCAL-00012" summary="백준 파이썬 1427 소트인사이드">
-      <created>1658379195569</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1658379195569</updated>
-    </task>
-    <task id="LOCAL-00013" summary="백준 파이썬 2309 일곱 난쟁이">
-      <created>1658385363957</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1658385363957</updated>
-    </task>
-    <task id="LOCAL-00014" summary="백준 파이썬 9076 점수 집계">
-      <created>1658392632729</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1658392632729</updated>
-    </task>
-    <task id="LOCAL-00015" summary="백준 파이썬 2693 N번째 큰 수">
-      <created>1658454863442</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1658454863442</updated>
-    </task>
-    <task id="LOCAL-00016" summary="백준 파이썬 5176 대회자리">
-      <created>1658455200530</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1658455200530</updated>
-    </task>
-    <task id="LOCAL-00017" summary="백준 파이썬 10773 제로">
-      <created>1658463356408</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1658463356408</updated>
-    </task>
-    <task id="LOCAL-00018" summary="백준 파이썬 3040 백설 공주와 일곱 난쟁이">
-      <created>1658799688880</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1658799688880</updated>
-    </task>
-    <task id="LOCAL-00019" summary="백준 파이썬 3058 짝수를찾아라">
-      <created>1658808021663</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1658808021663</updated>
-    </task>
-    <task id="LOCAL-00020" summary="백준 파이썬 5800 성적통계">
-      <created>1658813181210</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1658813181210</updated>
-    </task>
-    <task id="LOCAL-00021" summary="백준 파이썬 5576 콘테스트">
-      <created>1658900029453</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1658900029453</updated>
-    </task>
-    <task id="LOCAL-00022" summary="백준 파이썬 11047 동전 0">
-      <created>1658903539448</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1658903539448</updated>
-    </task>
-    <task id="LOCAL-00023" summary="백준 파이썬 2743 단어 길이 재기">
-      <created>1658969976667</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1658969976667</updated>
-    </task>
-    <task id="LOCAL-00024" summary="백준 파이썬 2744 대소문자 바꾸기">
-      <created>1658972247776</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1658972247776</updated>
-    </task>
-    <option name="localTasksCounter" value="25" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,30 +381,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 파이썬 2592 대표값" />
-    <MESSAGE value="백준 파이썬 2711 오타맨 고창영" />
-    <MESSAGE value="백준 파이썬 2953 나는 요리사다" />
-    <MESSAGE value="백준 파이썬 1292 쉽게 푸는 문제" />
-    <MESSAGE value="백준 파이썬 3460 2진수" />
-    <MESSAGE value="백준 파이썬 10807 개수 세기" />
-    <MESSAGE value="백준 파이썬 5054 주차의 신" />
-    <MESSAGE value="백준 파이썬 2822 점수 계산" />
-    <MESSAGE value="백준 파이썬 2750 수 정렬하기" />
-    <MESSAGE value="백준 파이썬 2752 세 수 정렬" />
-    <MESSAGE value="백준 파이썬 2587 대표값 2" />
-    <MESSAGE value="백준 파이썬 1427 소트인사이드" />
-    <MESSAGE value="백준 파이썬 2309 일곱 난쟁이" />
-    <MESSAGE value="백준 파이썬 9076 점수 집계" />
-    <MESSAGE value="백준 파이썬 2693 N번째 큰 수" />
-    <MESSAGE value="백준 파이썬 5176 대회자리" />
-    <MESSAGE value="백준 파이썬 10773 제로" />
-    <MESSAGE value="백준 파이썬 3040 백설 공주와 일곱 난쟁이" />
-    <MESSAGE value="백준 파이썬 3058 짝수를찾아라" />
-    <MESSAGE value="백준 파이썬 5800 성적통계" />
-    <MESSAGE value="백준 파이썬 5576 콘테스트" />
-    <MESSAGE value="백준 파이썬 11047 동전 0" />
-    <MESSAGE value="백준 파이썬 2743 단어 길이 재기" />
-    <MESSAGE value="백준 파이썬 2744 대소문자 바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 파이썬 2744 대소문자 바꾸기" />
+    <MESSAGE value="백준 파이썬 1357 뒤집힌 덧셈" />
+    <MESSAGE value="백준 파이썬 10987 모음의 개수" />
+    <MESSAGE value="백준 파이썬 4458 첫 글자를 대문자로" />
+    <MESSAGE value="백준 파이썬 11721 열 개씩 끊어 출력하기" />
+    <MESSAGE value="백준 파이썬 10821 정수의 개수" />
+    <MESSAGE value="백준 파이썬 10808 알파벳 개수" />
+    <MESSAGE value="백준 파이썬 5218 알파벳 거리" />
+    <MESSAGE value="백준 파이썬 9086 문자열" />
+    <MESSAGE value="백준 파이썬 11365 !밀비 급일" />
+    <MESSAGE value="백준 파이썬 11170 0의 개수" />
+    <MESSAGE value="백준 파이썬 11655 ROT13" />
+    <MESSAGE value="번호에 맞게 리팩터링 진행 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="번호에 맞게 리팩터링 진행 완료" />
   </component>
 </project>
